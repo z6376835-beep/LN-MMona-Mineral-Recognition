@@ -1,5 +1,7 @@
 # LN-MMona: A Joint Fine-Tuning Method for Mineral Image Recognition
 
+(flowchart.jpg)
+
 ## :wrench: Installation
 
 ### 1. Create and activate a Conda environment:
