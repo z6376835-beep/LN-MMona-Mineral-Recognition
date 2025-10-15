@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### 3. Install the project:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/z6376835-beep/LN-MMona-Mineral-Recognition.git
 cd LN-MMona
 pip install -e .
 ```
