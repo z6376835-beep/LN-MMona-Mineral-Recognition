@@ -1,0 +1,8 @@
+data_dir: ""
+batch_size: 64
+lr: 1e-4
+weight_decay: 1e-4
+num_epochs: 2000
+num_runs: 5
+patience: 15
+log_file: "training.log"
