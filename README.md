@@ -32,8 +32,11 @@ Ensure your dataset is organized in the **ImageFolder** format, as described in 
 
 You can download the datasets from the following links:
 
-* **Minet V2**: [Download PDF - Minet V2 Dataset](#)
-* **Minerals Identification Dataset**: [Download from Kaggle](https://www.kaggle.com/datasets)
+* **Minet V2**: [Download Minet V2 Dataset from Kaggle](https://www.kaggle.com/datasets/youcefattallah97/minerals-identification-classification)
+* **Minerals Identification Dataset**: [Download Minerals Identification Dataset from Kaggle](https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset/data)
+
+
+  
 
 ---
 
