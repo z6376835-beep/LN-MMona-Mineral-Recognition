@@ -1,6 +1,6 @@
 # LN-MMona: A Joint Fine-Tuning Method for Mineral Image Recognition
 
-![image](flowchart.jpg)
+
 
 ## :wrench: Installation
 
